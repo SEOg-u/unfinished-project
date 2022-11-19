@@ -332,7 +332,6 @@ const NicknameInput = styled.input`
 `;
 const OverlapButton = styled.button`
   ${buttonStyle};
-
   &:hover {
     ${hoverButtonStyle}
   }
@@ -363,7 +362,6 @@ const EmailInput = styled.input`
 `;
 const ConfirmButton = styled.button`
   ${buttonStyle}
-
   &:hover {
     ${hoverButtonStyle}
   }
@@ -390,7 +388,6 @@ const SignUpButton = styled.button`
   font-size: 16px;
   color: #ffffff;
   background-color: #643c00;
-
   &:hover {
     font-weight: 600;
   }
@@ -408,7 +405,6 @@ const GoLogInP = styled.p`
   color: #898989;
   font-family: "Noto Sans";
   font-style: normal;
-
   &:hover {
     font-weight: 600;
   }
