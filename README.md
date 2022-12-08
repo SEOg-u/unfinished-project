@@ -1,3 +1,3 @@
-# project-club
+# unfinshed-project
 
-전공 프로젝트 레포입니다.
+미완성 프로젝트 모음 레포입니다.
